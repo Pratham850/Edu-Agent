@@ -1,0 +1,38 @@
+Course Name,Provider,Type,Topic,Eligibility,Cost (Free/Paid),Certificate (Yes/No),Enrollment Link
+Intro to Machine Learning,Coursera,Tertiary,AI/ML,12th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/machine-learning
+Programming for Everybody (Python),Coursera,Tertiary,Programming,10th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/python
+AI For Everyone,Coursera,Tertiary,AI,12th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/ai-for-everyone
+Financial Markets,Coursera,Tertiary,Finance,12th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/financial-markets-global
+Social Psychology,Coursera,Tertiary,Psychology,12th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/social-psychology
+CS50: Intro to Computer Science,edX,Tertiary,Computer Science,12th Pass,Free audit / Paid cert,Yes,https://cs50.harvard.edu/x/
+Data Science: R Basics,edX,Tertiary,Data Science,12th Pass,Free audit / Paid cert,Yes,https://www.edx.org/course/data-science-r-basics
+Intro to Linux,edX,Tertiary,Operating Systems,12th Pass,Free audit / Paid cert,Yes,https://www.edx.org/course/introduction-to-linux
+Intro to Aerospace Engineering,NPTEL,Technical,Engineering,12th Pass,Free / ₹1000 exam,Yes,https://onlinecourses.nptel.ac.in/noc24_ae01
+Basics of AI,SWAYAM,Technical,AI,12th Pass,Free,Yes,https://swayam.gov.in/nd1_noc24_cs15/preview
+Design Thinking,SWAYAM,Technical,Innovation,12th Pass,Free,Yes,https://swayam.gov.in/nd1_noc24_mg24/preview
+Engineering Thermodynamics,NPTEL,Technical,Mechanical,12th Pass,Free / ₹1000 exam,Yes,https://onlinecourses.nptel.ac.in/noc24_me20
+Intro to Microeconomics,Saylor,Tertiary,Economics,12th Pass,Free,Yes,https://learn.saylor.org/course/view.php?id=26
+Intro to Business,Saylor,Tertiary,Business,12th Pass,Free,Yes,https://learn.saylor.org/course/view.php?id=23
+Programming in C,Saylor,Technical,Programming,12th Pass,Free,Yes,https://learn.saylor.org/course/view.php?id=98
+Digital Marketing,Google Digital Garage,Vocational,Marketing,10th Pass,Free,Yes,https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
+Responsive Web Design,FreeCodeCamp,Vocational,Web Dev,10th Pass,Free,Yes,https://www.freecodecamp.org/learn/responsive-web-design/
+JavaScript Algorithms,FreeCodeCamp,Technical,Programming,12th Pass,Free,Yes,https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+Intro to Algorithms,MIT OCW,Tertiary,Computer Science,Graduate,Free,No,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+Principles of Microeconomics,MIT OCW,Tertiary,Economics,12th Pass,Free,No,https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/
+Web Design for Beginners,Udemy,Vocational,Design,10th Pass,Free (limited),Yes,https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/
+Machine Learning A-Z,Udemy,Tertiary,AI/ML,12th Pass,Paid,Yes,https://www.udemy.com/course/machinelearning/
+English for Career Development,Coursera,Vocational,English,10th Pass,Free audit / Paid,Yes,https://www.coursera.org/learn/careerdevelopment
+Intro to Cyber Security,Coursera,Technical,Cybersecurity,12th Pass,Free audit / Paid,Yes,https://www.coursera.org/learn/intro-cyber-security
+Excel Skills for Business,Coursera,Vocational,MS Excel,10th Pass,Free audit / Paid,Yes,https://www.coursera.org/learn/excel-essentials
+AI for India 2.0,NASSCOM FutureSkills Prime,Technical,AI,12th Pass,Free,Yes,https://futureskillsprime.in
+Career Skills,SWAYAM,Vocational,Soft Skills,10th Pass,Free,Yes,https://onlinecourses.swayam2.ac.in/nou23_ge12/preview
+Basics of Python Programming,NPTEL,Technical,Programming,12th Pass,Free / ₹1000 exam,Yes,https://onlinecourses.nptel.ac.in/noc23_cs12
+Digital India Internship,NIC,Vocational,Internship,12th Pass,Free,Yes,https://www.meity.gov.in/digital-india-internship
+Technical Support Fundamentals,Coursera,Vocational,IT Support,10th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/learn/technical-support-fundamentals
+Cybersecurity Essentials,Cisco Networking Academy,Technical,Cybersecurity,12th Pass,Free,Yes,https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
+Python for Everybody Specialization,Coursera,Technical,Programming,12th Pass,Free audit / Paid cert,Yes,https://www.coursera.org/specializations/python
+Basic Electronics,Vocational,Vocational,Electronics,10th Pass,Free,Yes,http://example.com/electronics
+Data Entry Operator,Vocational,Vocational,IT,10th Pass,500,Yes,http://example.com/dataentry
+Diploma in Computer Science,Technical,Technical,Computer Science,12th Pass,2000,Yes,http://example.com/diploma-cs
+BSc in Agriculture,Tertiary,Tertiary,Agriculture,12th Pass,3000,Yes,http://example.com/bsc-agri
+Web Development Bootcamp,Vocational,Vocational,Web Dev,10th Pass,Free,Yes,http://example.com/webdev
