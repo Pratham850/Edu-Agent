@@ -17,7 +17,7 @@ education_levels = {
 }
 
 st.title("🎓 EduAccess Bot")
-st.write("Helping you find affordable, quality education by 2030 🌱")
+st.write("Helping you find affordable, quality education 🌱")
 
 # Step 1: Basic user info
 name = st.text_input("What's your name?")
@@ -57,5 +57,6 @@ if st.button("Find Courses"):
             """)
     else:
         st.error("Sorry, no matching courses found. Try changing location or eligibility.")
+
 
 
